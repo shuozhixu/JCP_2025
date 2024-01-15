@@ -15,11 +15,12 @@ Read the following journal articles to learn more about nanolaminates
 
 Read the following journal articles to understand how the CLS process can be calculated:
 
+- Mahshad Fani, Wu-Rong Jian, Yanqing Su, Shuozhi Xu, [Confined layer slip process in nanolaminated Ag and two Ag/Cu nanolaminates](http://dx.doi.org/10.1557/s43578-021-00261-y), Materials 1 (2024) 2
 - Weisen Ji, Wu-Rong Jian, Yanqing Su, Shuozhi Xu, Irene J. Beyerlein, [Role of stacking fault energy in confined layer slip in nanolaminated Cu](http://dx.doi.org/10.1007/s10853-023-08779-8), J. Mater. Sci. (in press)
 - Wu-Rong Jian, Shuozhi Xu, Yanqing Su, Irene J. Beyerlein, [Role of layer thickness and dislocation distribution in confined layer slip in nanolaminated Nb](http://dx.doi.org/10.1016/j.ijplas.2022.103239), Int. J. Plast. 152 (2022) 103239
 - Wu-Rong Jian, Yanqing Su, Shuozhi Xu, Weisen Ji, Irene J. Beyerlein, [Effect of interface structure on dislocation glide behavior in nanolaminates](http://dx.doi.org/10.1557/s43578-021-00261-y), J. Mater. Res. 36 (2021) 2802--2815
 
-Most papers above are not in the Cu/Ag system. The following are some prior work on Cu/Ag nanolaminates:
+The following are some prior work on Ag/Cu nanolaminates, although none of them focused on CLS:
 
 - Experiments
 	- Min Wang, Irene J. Beyerlein, Jian Zhang, Wei-Zhong Han, [Bi-metal interface-mediated defects distribution in neon ion bombarded Cu/Ag nanocomposites](https://doi.org/10.1016/j.scriptamat.2019.06.016), Scr. Mater. 171 (2019) 1--5
@@ -78,5 +79,5 @@ The dislocation/void interactions in a Cu single crystal where the periodic boun
 
 If you use any files from this GitHub repository, please cite
 
-- Wu-Rong Jian, Yanqing Su, Shuozhi Xu, Weisen Ji, Irene J. Beyerlein, [Effect of interface structure on dislocation glide behavior in nanolaminates](http://dx.doi.org/10.1557/s43578-021-00261-y), J. Mater. Res. 36 (2021) 2802--2815
+- Mahshad Fani, Wu-Rong Jian, Yanqing Su, Shuozhi Xu, [Confined layer slip process in nanolaminated Ag and two Ag/Cu nanolaminates](http://dx.doi.org/10.1557/s43578-021-00261-y), Materials 1 (2024) 2
 - Wu-Rong Jian, Min Zhang, Shuozhi Xu, Irene J. Beyerlein, [Atomistic simulations of dynamics of an edge dislocation and its interaction with a void in copper: A comparative study](http://dx.doi.org/10.1088/1361-651X/ab8358), Modelling Simul. Mater. Sci. Eng. 28 (2020) 045004
