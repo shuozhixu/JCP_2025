@@ -41,6 +41,8 @@ To finish this project, build our own LAMMPS version with the following two pack
 - MANYBODY package. This is to use the manybody potential such as the embedded-atom method potential.
 - VORONOI package. This is to calculate Voronoi tessellation of the atoms in the simulation cell. To learn more, please visit [this page](https://docs.lammps.org/compute_voronoi_atom.html).
 
+To achieve that goal, run the `lmp_mbvo.sh` script following [a previous project](https://github.com/shuozhixu/Materials_2024).
+
 60 LAMMPS simulations will be conducted in this project. Each time we run a new simulation, create a new directory.
 
 The interatomic potential is the same one used in our previous project.
