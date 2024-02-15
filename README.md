@@ -43,7 +43,7 @@ To finish this project, build our own LAMMPS version with the following two pack
 
 To achieve that goal, run the `lmp_mbvo.sh` script following [a previous project](https://github.com/shuozhixu/Materials_2024).
 
-60 LAMMPS simulations will be conducted in this project. Each time we run a new simulation, create a new directory.
+63 LAMMPS simulations will be conducted in this project. Each time we run a new simulation, create a new directory.
 
 The interatomic potential is the same one used in our previous project.
 
@@ -73,7 +73,7 @@ Along the same line of thought, let's consider three planes here too. Similarly,
 
 ## Single crystalline pure metals
 
-There are two pure metals, Cu and Ag. To provide references, we can simulate the dislocation/void interactions in Ag, and compare results with those in nanolaminates. The dislocation line should be 5 nm, the same as those used in nanolaminates. There are two types of boundary conditions along the dislocation line direction: periodic boundary conditions and traction-free boundary conditions. Thus, there are 6 cases in total.
+There are two pure metals, Cu and Ag. To provide references, we can simulate the dislocation/void interactions in Ag, and compare results with those in nanolaminates. The dislocation line should be 5 nm, the same as those used in nanolaminates. There are two types of boundary conditions along the dislocation line direction: periodic boundary conditions and traction-free boundary conditions. For the first boundary condition, the two void positions are equivalent, and so only the three void diameters should be considered. For the second boundary condition, the two void positions are not equivalent. Thus, 9 LAMMPS simulations should be conducted in single crystalline Ag.
 
 The dislocation/void interactions in a Cu single crystal where the periodic boundary conditions were applied along the dislocation line were modeled in [a previous paper](http://dx.doi.org/10.1088/1361-651X/ab8358), which should be studied closely.
 
