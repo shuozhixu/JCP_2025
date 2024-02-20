@@ -57,7 +57,7 @@ Unfortunately, there is no interatomic potentials for Ag/He, and so we only cons
 
 Our previous project considered CLS in all three different slip planes. Here, let's consider all of them.
 
-Therefore, we need to insert a void either at the interface or in the middle of a Ag layer where CLS takes place. For each slip plane, let the dislocation glide through the center of the void. The insertion of the void can be done in [LAMMPS](https://docs.lammps.org/delete_atoms.html) or [atomsk](https://atomsk.univ-lille.fr/tutorial_removeatoms.php). Three void diameters can be considered: 1 nm, 2 nm, and 3 nm.
+Therefore, we need to insert a void either at the interface or in the middle of a Ag layer where CLS takes place. For each slip plane, let the dislocation glide through the center of the void. The insertion of the void can be done in [LAMMPS](https://docs.lammps.org/delete_atoms.html) or [atomsk](https://atomsk.univ-lille.fr/tutorial_removeatoms.php). Three void diameters can be considered: 0.5 nm, 1 nm, and 2 nm.
 
 Since there are three void sizes, two void locations, and three slip planes, 18 LAMMPS simulations need to be conducted.
 
